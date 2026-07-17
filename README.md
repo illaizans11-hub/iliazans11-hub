@@ -70,45 +70,7 @@ My primary interest is developing information systems that are functional, well-
 
 ---
 
-## Selected Projects
 
-### Billing Salam
-
-A customer and billing management system developed to support daily operations and management monitoring.
-
-**Main development areas**
-
-- Customer data management
-- Monthly billing records
-- Payment status monitoring
-- Thermal receipt printing
-- Customer QR Code
-- Super Admin analytics dashboard
-- Report generation
-
-**Technology:** Laravel, PHP, MySQL, Bootstrap
-
-[View repository](https://github.com/illaizans11-hub/billing)
-
----
-
-### Website Aqua Channel
-
-A web application project focused on functional features, responsive layouts, and a structured user interface.
-
-**Technology:** Laravel, PHP, MySQL, CSS
-
-[View repository](https://github.com/illaizans11-hub/website-aquachannel)
-
----
-
-### Object-Oriented Programming Project
-
-An academic final project developed to apply object-oriented programming concepts in application development.
-
-[View repository](https://github.com/illaizans11-hub/PBO-UAS)
-
----
 
 ## Education
 
