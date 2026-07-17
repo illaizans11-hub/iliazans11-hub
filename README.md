@@ -1,32 +1,41 @@
 <div align="center">
 
-# Hi, I'm Illaiza Nur Sakina 👋
+# Illaiza Nur Sakina
 
-### Information Management Student • Web Developer • Network Enthusiast
+### Information Management Student · Web Developer · Network Enthusiast
 
-I enjoy building practical web applications, designing clean interfaces,  
-and learning more about backend development, databases, and computer networks.
+Building practical information systems with clean interfaces, structured data, and reliable functionality.
 
-[![Email](https://img.shields.io/badge/Email-illaiza110305%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:illaiza110305@gmail.com)
-![Location](https://img.shields.io/badge/East%20Java-Indonesia-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)
+<p>
+  <a href="mailto:illaiza110305@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/illaiza-nur-sakina">
+    <img src="https://img.shields.io/badge/LINKEDIN-ILLAIZA%20NUR%20SAKINA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/illaizans11-hub">
+    <img src="https://img.shields.io/badge/GITHUB-ILLAIZANS11--HUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/1llaizaa/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-1LLAIZAA-262626?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## Profile
 
-- 🎓 D3 **Manajemen Informatika** student at **PSDKU Polinema Kediri**
-- 📚 Current GPA: **3.97 / 4.00**
-- 🌐 Interested in **Web Development, Information Systems, and UI/UX**
-- 🌐 Experienced with **MikroTik RouterOS, LAN installation, and network troubleshooting**
-- 🧠 Currently improving my skills in **Laravel, MySQL, Python, and backend development**
-- 🤝 Comfortable working independently and collaboratively in a team
-- 🗣️ Active in organizational activities, public speaking, visual branding, and technology research
+I am a Diploma student in **Information Management at PSDKU Polinema Kediri** with a cumulative GPA of **3.97/4.00**.
+
+My background combines web development, computer networking, visual design, and academic research. I have experience developing responsive web applications, managing databases, designing user interfaces, configuring MikroTik networks, and supporting computer troubleshooting.
+
+My primary interest is developing information systems that are functional, well-structured, visually consistent, and easy to use.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Expertise
 
 ### Web Development
 
@@ -43,7 +52,7 @@ and learning more about backend development, databases, and computer networks.
 
 <p>
   <img src="https://img.shields.io/badge/MikroTik-20232A?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"/>
-  <img src="https://img.shields.io/badge/Linux%20Ubuntu-20232A?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Linux%20Ubuntu-20232A?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Linux Ubuntu"/>
   <img src="https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows11&logoColor=0078D4" alt="Windows"/>
   <img src="https://img.shields.io/badge/LAN%20Networking-20232A?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="LAN Networking"/>
 </p>
@@ -61,86 +70,131 @@ and learning more about backend development, databases, and computer networks.
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-| Project | Description | Technology |
-|---|---|---|
-| [**Billing Salam**](https://github.com/illaizans11-hub/billing) | Customer and billing management system with admin features, monitoring dashboard, transaction receipt, and QR Code support. | Laravel, PHP, MySQL |
-| [**Website Aqua Channel**](https://github.com/illaizans11-hub/website-aquachannel) | Web development project focused on a functional and responsive user interface. | Laravel, PHP, CSS |
-| [**Aqua Channel**](https://github.com/illaizans11-hub/AQUACHANNEL) | Academic website project developed to practice web application development. | Web Development |
-| [**PBO UAS**](https://github.com/illaizans11-hub/PBO-UAS) | Final project for Object-Oriented Programming coursework. | OOP |
+### Billing Salam
 
-> I am continuously improving the documentation, structure, and presentation of my repositories.
+A customer and billing management system developed to support daily operations and management monitoring.
 
----
+**Main development areas**
 
-## 🏆 Experience & Achievements
+- Customer data management
+- Monthly billing records
+- Payment status monitoring
+- Thermal receipt printing
+- Customer QR Code
+- Super Admin analytics dashboard
+- Report generation
 
-### 🥈 2nd Place — MikroTik Configuration Competition
-**March 2023**
+**Technology:** Laravel, PHP, MySQL, Bootstrap
 
-Configured a network gateway, firewall, and bandwidth management in an inter-class competition.
-
-### 💻 Web Development & Design
-**May 2025 – Present**
-
-- Develop and manage functional, responsive websites
-- Design UI/UX flows using Figma before implementation
-- Improve application layouts to make them clearer and easier to use
-
-### 📄 Scientific Publication — SINTA 5 Journal
-**November 2025**
-
-Published an academic article titled:
-
-> **“Systematic Literature Review: Machine Learning Approaches for Credit Risk Prediction”**
-
-### 🔧 Internship — OMEGA COMP
-**January 2022 – May 2022**
-
-- Diagnosed laptop issues and assisted with hardware replacement
-- Reinstalled operating systems
-- Installed LAN networks and configured basic network devices
+[View repository](https://github.com/illaizans11-hub/billing)
 
 ---
 
-## 🎓 Education
+### Website Aqua Channel
+
+A web application project focused on functional features, responsive layouts, and a structured user interface.
+
+**Technology:** Laravel, PHP, MySQL, CSS
+
+[View repository](https://github.com/illaizans11-hub/website-aquachannel)
+
+---
+
+### Object-Oriented Programming Project
+
+An academic final project developed to apply object-oriented programming concepts in application development.
+
+[View repository](https://github.com/illaizans11-hub/PBO-UAS)
+
+---
+
+## Education
 
 ### D3 Manajemen Informatika
-**PSDKU Polinema Kediri** — June 2024 – Present
 
-Relevant coursework:
+**PSDKU Polinema Kediri**  
+June 2024 — Present
 
-- Computer Networks
-- Server Administration
-- Web Development
-- Graphic Design
+- Cumulative GPA: **3.97/4.00**
+- Relevant studies: Web Development, Computer Networks, Server Administration, and Graphic Design
 
 ### Teknik Komputer dan Jaringan
-**SMKN Darul Ulum Muncar, Banyuwangi** — Graduated 2023
 
-Focused on computer networking, device configuration, installation, and troubleshooting.
+**SMKN Darul Ulum Muncar, Banyuwangi**  
+Graduated in 2023
+
+- Computer network installation
+- Network device configuration
+- Computer maintenance and troubleshooting
 
 ---
 
-## 🤝 Organization
+## Experience
+
+### Web Development and Design
+
+**May 2025 — Present**
+
+- Develop and maintain functional, responsive websites
+- Design user flows and interfaces using Figma
+- Organize application layouts to improve usability and visual consistency
+- Work with databases and backend application logic
+
+### Internship — OMEGA COMP
+
+**January 2022 — May 2022**
+
+- Assisted with laptop diagnostics and hardware replacement
+- Reinstalled operating systems
+- Installed LAN networks
+- Configured basic network devices
+
+---
+
+## Academic and Professional Highlights
+
+### Scientific Publication
+
+Published an article in a SINTA 5 journal titled:
+
+**Systematic Literature Review: Machine Learning Approaches for Credit Risk Prediction**
+
+### MikroTik Configuration Competition
+
+Achieved **2nd Place** in an inter-class competition by configuring a network gateway, firewall, and bandwidth management.
 
 ### BEM PSDKU Polinema Kediri
 
-- Created visual identities, event logos, mascot animations, and social media layouts
-- Participated as a speaker and moderator in campus activities
-- Conducted technology research using Garuda, SINTA, and Google Scholar
+Contributed to organizational activities through visual branding, social media design, public speaking, event moderation, and technology research.
 
 ---
 
-## 📫 Contact Me
+## Current Focus
+
+- Laravel application development
+- Information system architecture
+- Backend and database development
+- Interface consistency and usability
+- Networking and server administration
+
+---
+
+## Contact
 
 <p>
   <a href="mailto:illaiza110305@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/GMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/illaiza-nur-sakina">
+    <img src="https://img.shields.io/badge/LINKEDIN-ILLAIZA%20NUR%20SAKINA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/illaizans11-hub">
-    <img src="https://img.shields.io/badge/GitHub-illaizans11--hub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-ILLAIZANS11--HUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/1llaizaa/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-1LLAIZAA-262626?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -148,6 +202,6 @@ Focused on computer networking, device configuration, installation, and troubles
 
 <div align="center">
 
-### “Keep learning, keep building, and turn ideas into useful solutions.”
+Focused on continuous learning, thoughtful design, and practical development.
 
 </div>
