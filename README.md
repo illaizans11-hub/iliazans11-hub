@@ -1,115 +1,104 @@
 <div align="center">
 
-Illaiza Nur Sakina
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1E3A8A,100:6D28D9&text=Illaiza%20Nur%20Sakina&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Management%20Informatics%20Student%20%C2%B7%20Web%20%26%20Mobile%20Developer%20%C2%B7%20Network%20Enthusiast&descAlignY=59&descSize=15&animation=fadeIn"/>
 
-Management Informatics Student · Web & Mobile Developer · Network Enthusiast
-
-<sub>
-Building practical digital solutions through clean interfaces, structured systems, and reliable functionality.
-</sub>
-
-<br><br>
-
-<a href="mailto:illaiza110305@gmail.com">
-  <img src="https://img.shields.io/badge/Email-illaiza110305%40gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/illaiza-nur-sakina">
-  <img src="https://img.shields.io/badge/LinkedIn-Illaiza%20Nur%20Sakina-1F2937?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/illaizans11-hub">
-  <img src="https://img.shields.io/badge/GitHub-illaizans11--hub-1F2937?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.instagram.com/1llaizaa/">
-  <img src="https://img.shields.io/badge/Instagram-%401llaizaa-1F2937?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=6D8DFF&center=true&vCenter=true&width=760&lines=Building+practical+and+well-structured+digital+solutions;Interested+in+web%2C+mobile%2C+networking%2C+and+UI%2FUX;Currently+interning+at+PT+Life+Media;Learning%2C+building%2C+and+improving+every+day" alt="Typing Animation"/>
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/Currently-Interning%20at%20PT%20Life%20Media-374151?style=flat-square" alt="Current Internship"/>
-<img src="https://img.shields.io/badge/Location-East%20Java%2C%20Indonesia-374151?style=flat-square" alt="Location"/>
+<a href="mailto:illaiza110305@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/illaiza-nur-sakina">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/illaizans11-hub">
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/1llaizaa/">
+  <img src="https://img.shields.io/badge/Instagram-%401llaizaa-262626?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
-About
+About Me
 
 I am a Diploma student in Management Informatics at PSDKU Polinema Kediri with a cumulative GPA of 3.97/4.00.
 
-My background combines web and mobile development, computer networking, visual design, and academic research. I have experience developing responsive applications, managing databases, designing user interfaces, configuring MikroTik networks, and supporting computer troubleshooting.
+My experience combines web and mobile development, database management, UI/UX design, computer networking, and academic research. I enjoy building systems that are practical, visually consistent, and useful for real users.
 
-I am currently completing an internship at PT Life Media, where I continue to strengthen my skills in application development, understanding user needs, system improvement, and team collaboration.
+I am currently completing an internship at PT Life Media, where I continue to strengthen my skills in application development, understanding user needs, system improvement, testing, and team collaboration.
 
 My main interest is building information systems that are functional, well-structured, visually consistent, and useful for real users.
 
-Technical Expertise
+Tech Stack
+
+<div align="center">
 
 Web & Mobile Development
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=777BB4" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/Mobile%20Development-111827?style=flat-square&logo=android&logoColor=3DDC84" alt="Mobile Development"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python&theme=dark" alt="Web Development Skills"/>
+
+<br>
+
+Tools & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop&theme=dark" alt="Tools and Design Skills"/>
+
+<br>
 
 Networking & Systems
 
-<p>
-  <img src="https://img.shields.io/badge/MikroTik-111827?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik"/>
-  <img src="https://img.shields.io/badge/Linux%20Ubuntu-111827?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Windows-111827?style=flat-square&logo=windows11&logoColor=0078D4" alt="Windows"/>
-  <img src="https://img.shields.io/badge/LAN%20Networking-111827?style=flat-square&logo=cisco&logoColor=1BA0D7" alt="LAN Networking"/>
-  <img src="https://img.shields.io/badge/Server%20Administration-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Server Administration"/>
-</p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&theme=dark" alt="Systems Skills"/>
 
-Design & Productivity
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-111827?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop"/>
-  <img src="https://img.shields.io/badge/CorelDRAW-111827?style=flat-square&logo=coreldraw&logoColor=47A141" alt="CorelDRAW"/>
-  <img src="https://img.shields.io/badge/Canva-111827?style=flat-square&logo=canva&logoColor=00C4CC" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Office-111827?style=flat-square&logo=microsoft&logoColor=F25022" alt="Microsoft Office"/>
-  <img src="https://img.shields.io/badge/Google%20Workspace-111827?style=flat-square&logo=google&logoColor=4285F4" alt="Google Workspace"/>
-</p>
+<img src="https://img.shields.io/badge/MikroTik-Routing%20%7C%20Bandwidth%20Management%20%7C%20Hotspot-111827?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-LAN%20Installation%20%7C%20Troubleshooting-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
 
-Development Tools
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Figma%20Prototyping-111827?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma Prototyping"/>
-</p>
-
-Selected Work
+Selected Projects
 
 Billing Salam
 
-A customer and billing management system developed to support daily operational activities and management monitoring.
+A customer and billing management system developed to support operational activities and management monitoring.
 
-Key areas: customer management, monthly billing records, payment monitoring, thermal receipt printing, customer QR Code, analytics dashboard, and reporting.
+Key contributions
 
-Technology: PHP · Laravel · MySQL · Bootstrap
+Customer and billing data management
 
-View repository
+Monthly payment history
+
+Payment-status monitoring
+
+Thermal receipt printing
+
+Customer QR Code
+
+Super Admin analytics dashboard
+
+Reporting features
+
+Technology: Laravel · PHP · MySQL · Bootstrap
+
+View Repository
 
 Website Aqua Channel
 
-A web application project focused on functional features, responsive layouts, and a structured user interface.
+A web application project focused on responsive layouts, structured interfaces, and functional features.
 
 Technology: Laravel · PHP · MySQL · CSS
 
-View repository
+View Repository
 
 Object-Oriented Programming Project
 
-An academic final project developed to apply object-oriented programming concepts in application development.
+An academic final project developed to apply object-oriented programming concepts.
 
-View repository
+View Repository
 
 Experience
 
@@ -117,11 +106,11 @@ Information Technology Intern
 
 PT Life Media2026 — Present
 
-Contribute to the development and improvement of web-based information systems
+Contribute to the development and improvement of web-based systems
 
-Analyze application workflows and user requirements
+Analyze application workflows and user needs
 
-Support feature testing, interface improvement, and system documentation
+Support feature testing, interface improvement, and documentation
 
 Collaborate with team members on ongoing development projects
 
@@ -129,15 +118,13 @@ Web & Mobile Development Projects
 
 May 2025 — Present
 
-Develop functional and responsive applications
+Develop responsive and functional applications
 
 Design user flows and interfaces using Figma
 
-Organize application layouts to improve usability and visual consistency
-
 Work with databases, backend logic, and reporting features
 
-Collaborate with teams and external partners during project development
+Collaborate with teams and external partners
 
 Internship — OMEGA COMP
 
@@ -173,7 +160,11 @@ Computer maintenance and troubleshooting
 
 MikroTik routing, bandwidth management, and hotspot configuration
 
-Academic & Professional Highlights
+Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 Scientific Publication
 
@@ -181,47 +172,68 @@ Published an article in a SINTA 5-indexed journal:
 
 Systematic Literature Review: Machine Learning Approaches for Credit Risk Prediction
 
-MikroTik Configuration Competition
+</td>
+<td width="50%" valign="top">
 
-Achieved 2nd Place in an inter-class competition by configuring a network gateway, firewall, and bandwidth management.
+MikroTik Achievement
+
+Achieved 2nd Place in a MikroTik configuration competition covering gateway setup, firewall configuration, and bandwidth management.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 Cisco Networking Academy
 
-Completed professional learning programs in:
+Completed:
 
 Python Essentials 1
 
 Introduction to IoT and Digital Transformation
 
+</td>
+<td width="50%" valign="top">
+
 BEM PSDKU Polinema Kediri
 
-Contributed to organizational activities through visual branding, social media design, public speaking, event moderation, documentation, and technology research.
+Contributed through visual branding, publication design, documentation, public speaking, event moderation, and technology research.
+
+</td>
+</tr>
+</table>
 
 Current Focus
 
-Application Development     Information Systems
-Backend & Database          UI/UX Consistency
-Mobile Development          Networking & Server Administration
+<div align="center">
 
-Contact
+<img src="https://img.shields.io/badge/Application%20Development-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Information%20Systems-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20%26%20Database-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Consistency-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mobile%20Development-581C87?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Networking%20%26%20Server-0F172A?style=for-the-badge"/>
+
+</div>
 
 <div align="center">
 
+Let's Connect
+
+Open to professional connections, collaboration, and opportunities in technology.
+
+<br>
+
 <a href="mailto:illaiza110305@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-illaiza110305%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/illaiza-nur-sakina">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1F2937?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Illaiza%20Nur%20Sakina-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/illaizans11-hub">
-  <img src="https://img.shields.io/badge/GitHub-View%20Projects-1F2937?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.instagram.com/1llaizaa/">
-  <img src="https://img.shields.io/badge/Instagram-%401llaizaa-1F2937?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/GitHub-illaizans11--hub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
-<sub>Focused on continuous learning, thoughtful design, and practical development.</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,45:1E3A8A,100:6D28D9"/>
 
 </div>
